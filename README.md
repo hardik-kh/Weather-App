@@ -19,3 +19,7 @@ App Screens
 | Night   |
 | ------------- |
 | <img src ="screen2.jpg" height = "620" width = "300">     |
+
+## Features
+You can either find the weather of your current location by turning location ON
+or you can find the weather of any city in the world.
