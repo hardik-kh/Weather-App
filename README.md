@@ -13,6 +13,7 @@ App Screens
 
 | Cloudy   |
 | ------------- |
+* If the cloud cover is more than 30% there is more likely to be cloudy
 | <img src ="screen3.jpg" height = "620" width = "300">     |
 
 | Night   |
