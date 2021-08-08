@@ -1,5 +1,5 @@
 # Weather-App
-
+### This is a Weather App made using React Native and can find the weather data for most of the cities in the world . 
 
 App Screens
 -------
