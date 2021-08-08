@@ -5,7 +5,7 @@ App Screens
 -------
 | Home Screen   |5 days Forcast      | 
 | ------------- | ---------:|
-| <img src ="screen1.jpg" height = "620" width = "300">     | <img src ="screen2.jpg" height = "620" width = "300">|
+| <img src ="screen1.jpg" height = "620" width = "300">     |
 
 | Order Screen       | Delivery Route Screen          | 
 | ------------- | -----:|
