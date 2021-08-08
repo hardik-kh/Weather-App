@@ -1,4 +1,6 @@
 # Weather-App
+### Weather forecasting is the prediction of what the atmosphere will be like in a particular <br/>
+### place by using technology and scientific knowledge to make weather observations<br/>
 ### This is a Weather App made using React Native and can find the weather data for most of the cities in the world . 
 
 App Screens
